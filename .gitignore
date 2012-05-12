@@ -1,3 +1,8 @@
+debug
+release
+*.exe
+*.svn
+
 # Compiled Object files
 *.slo
 *.lo

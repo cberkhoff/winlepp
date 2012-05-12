@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="main_icon" >
+    <file>logo.png</file>
+  </qresource>
+  <qresource prefix="selection" >
+    <file>select_all.png</file>
+    <file>select_angle.png</file>
+    <file>select_none.png</file>
+  </qresource>
+  <qresource prefix="mode" >
+    <file>meshscene.png</file>
+    <file>console.png</file>
+  </qresource>
+</RCC>
